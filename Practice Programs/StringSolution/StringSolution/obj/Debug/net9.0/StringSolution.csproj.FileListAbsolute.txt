@@ -1,0 +1,14 @@
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\bin\Debug\net9.0\StringSolution.exe
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\bin\Debug\net9.0\StringSolution.deps.json
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\bin\Debug\net9.0\StringSolution.runtimeconfig.json
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\bin\Debug\net9.0\StringSolution.dll
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\bin\Debug\net9.0\StringSolution.pdb
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\obj\Debug\net9.0\StringSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\obj\Debug\net9.0\StringSolution.AssemblyInfoInputs.cache
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\obj\Debug\net9.0\StringSolution.AssemblyInfo.cs
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\obj\Debug\net9.0\StringSolution.csproj.CoreCompileInputs.cache
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\obj\Debug\net9.0\StringSolution.dll
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\obj\Debug\net9.0\refint\StringSolution.dll
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\obj\Debug\net9.0\StringSolution.pdb
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\obj\Debug\net9.0\StringSolution.genruntimeconfig.cache
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\StringSolution\StringSolution\obj\Debug\net9.0\ref\StringSolution.dll

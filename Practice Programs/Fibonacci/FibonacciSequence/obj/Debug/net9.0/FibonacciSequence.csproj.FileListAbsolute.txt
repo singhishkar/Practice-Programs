@@ -1,0 +1,14 @@
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\bin\Debug\net9.0\FibonacciSequence.exe
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\bin\Debug\net9.0\FibonacciSequence.deps.json
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\bin\Debug\net9.0\FibonacciSequence.runtimeconfig.json
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\bin\Debug\net9.0\FibonacciSequence.dll
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\bin\Debug\net9.0\FibonacciSequence.pdb
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\obj\Debug\net9.0\FibonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\obj\Debug\net9.0\FibonacciSequence.AssemblyInfoInputs.cache
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\obj\Debug\net9.0\FibonacciSequence.AssemblyInfo.cs
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\obj\Debug\net9.0\FibonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\obj\Debug\net9.0\FibonacciSequence.dll
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\obj\Debug\net9.0\refint\FibonacciSequence.dll
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\obj\Debug\net9.0\FibonacciSequence.pdb
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\obj\Debug\net9.0\FibonacciSequence.genruntimeconfig.cache
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\Fibonacci\FibonacciSequence\obj\Debug\net9.0\ref\FibonacciSequence.dll

@@ -1,0 +1,14 @@
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\bin\Debug\net9.0\ProductOfArray.exe
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\bin\Debug\net9.0\ProductOfArray.deps.json
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\bin\Debug\net9.0\ProductOfArray.runtimeconfig.json
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\bin\Debug\net9.0\ProductOfArray.dll
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\bin\Debug\net9.0\ProductOfArray.pdb
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\obj\Debug\net9.0\ProductOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\obj\Debug\net9.0\ProductOfArray.AssemblyInfoInputs.cache
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\obj\Debug\net9.0\ProductOfArray.AssemblyInfo.cs
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\obj\Debug\net9.0\ProductOfArray.csproj.CoreCompileInputs.cache
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\obj\Debug\net9.0\ProductOfArray.dll
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\obj\Debug\net9.0\refint\ProductOfArray.dll
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\obj\Debug\net9.0\ProductOfArray.pdb
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\obj\Debug\net9.0\ProductOfArray.genruntimeconfig.cache
+C:\Users\ishka\OneDrive\Documents\VS Code\Practice Programs\ProductOfArray\ProductOfArray\obj\Debug\net9.0\ref\ProductOfArray.dll
