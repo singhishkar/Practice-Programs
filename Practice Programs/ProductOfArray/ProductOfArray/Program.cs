@@ -25,27 +25,25 @@ class Program
 
     static int Product(int[] numbers)
     {
-        int product = 1;
-        int prodSign;
+        int negativeNumCount = 0;
 
         foreach (int num in numbers)
         {
-            product = product * num;
+            if (num == 0)
+                return 0;
+
+            if (num < 0)
+                negativeNumCount++;
         }
 
-        if (product > 0)
+        if (negativeNumCount % 2 == 0)
         {
-            prodSign = 1;
-        }
-        else if (product < 0)
-        {
-            prodSign = -1;
+            return 1;
         }
         else
         {
-            prodSign = 0;
+            return -1;
         }
-
-        return prodSign;
     }
 }
+
